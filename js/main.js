@@ -33,7 +33,8 @@ console.log( arr[index] );
 	return Math.floor( Math.random() * ( max - min + 1 ) ) + min;
 }
 
-
+var z = (number) + getRandomInt;
+return z;
 
 console.log("result")
 
